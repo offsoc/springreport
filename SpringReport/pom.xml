@@ -29,7 +29,7 @@
 		<jwt.version>4.4.0</jwt.version>
 		<httpclient.version>4.5.14</httpclient.version>
 		<velocity.version>1.7</velocity.version>
-		<org.apache.poi.version>5.2.3</org.apache.poi.version>
+		<org.apache.poi.version>5.4.0</org.apache.poi.version>
 		<commons.io.version>2.16.0</commons.io.version>
 		<sqljdbc4.version>4.0</sqljdbc4.version>
 		<ojdbc.version>23.4.0.24.05</ojdbc.version>
